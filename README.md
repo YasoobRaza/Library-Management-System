@@ -24,4 +24,4 @@ Contributions are welcome! If you want to contribute to this project, please for
 
 ## Credits
 
-This Checkers game was created by Yasoob Raza. Thank you for playing!
+This Desktop Application is created by Yasoob Raza.
