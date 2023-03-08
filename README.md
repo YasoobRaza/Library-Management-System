@@ -2,6 +2,10 @@
 
 This is a desktop application built using the Python library Tkinter for managing a library. The system allows the user to store records of all the books available in the library and to record data of library members and the books they have borrowed or issued.
 
+## Quick Demo
+
+https://user-images.githubusercontent.com/90134146/223703968-1c3b2641-73b0-4156-8a26-2ab65c90519f.mp4
+
 ## Features
 
 - Add, delete, and edit records of books
