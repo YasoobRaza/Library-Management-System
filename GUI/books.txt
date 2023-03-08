@@ -1,0 +1,15 @@
+An Imaginary Tale|Paul J. Nahin|mathematics|Princeton University Press
+Biological Science|Scott Freeman|biology|Pearson Education
+Empire of Pain|Patrick Radden Keefe|nonfiction|Doubleday
+Harry Potter|J. K. Rowling|novel|Bloomsbury
+In Search of Lost Time|Marcel Proust|novel|Grasset and Gallimard
+Into Thin Air|Jon Krakauer|nonfiction|Villard Books
+New Revelations of the America|Charles C.Mann|history|Knopf
+Organic Chemistry|David Klein|chemistry|Wiley
+Python Cookbook|Brian K. Jones|python|O'Reilly Media
+The Guns of August| Barbara W. Tuchman|history|Macmillan
+The Hobbit|J.R.R.Tolkien|novel|George Allen & Unwin
+The Lord of the Rings|J.R.R.Tolkien|novel|George Allen & Unwin
+Ulysses|James Joyce|novel|Shakespeare and Company
+War and peace|Leo Tolstoy|novel|The Russian Messenger (serial)
+What If?|Randall Munroe|physics|Houghton Mifflin
